@@ -133,6 +133,7 @@ form .form-btn {
 	font-family: "Poppins", "Segoe UI", Tahoma;
 	font-weight: 500;
 	font-size: 1rem;
+	cursor: pointer;
 }
 
 form .have-Acc {
@@ -170,6 +171,7 @@ form .signup-div .github {
 	border-radius: 15px;
 	border: 1px solid #7c838a;
 	gap: 5px;
+	cursor: pointer;
 }
 
 form .signup-div img {
